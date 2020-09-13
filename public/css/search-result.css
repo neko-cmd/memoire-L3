@@ -1,0 +1,35 @@
+.search-results-container {
+    min-height: 500px;
+    margin: 20px auto;
+  }
+  .search-results-container a {
+    color:#41D1CC;
+  }
+  .search-results-container a:hover {
+    text-decoration: underline;
+    color: #20B2AA;
+  }
+  
+  .search-results-count {
+    margin-bottom: 20px;
+  }
+  .search-form {
+    position: relative;
+  }
+  
+  .search-icon {
+    color: gray;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+  }
+  
+  .search-box {
+    padding: 10px 12px 10px 34px;
+    width: 400px;
+    max-width: 100%;
+    font-size: 14px;
+  }
+  
+  /*# sourceMappingURL=cart.css.map */
+  

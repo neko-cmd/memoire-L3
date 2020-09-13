@@ -1,0 +1,35 @@
+
+.container{
+    margin-top: 7%;
+}
+.container1{
+    margin-top: 10%;
+    text-align: center;
+}
+.container1.h1{
+    color: #080808;
+    text-align: center;
+}
+.container1 img{
+    margin-right: 25%;
+}
+.container2 p{
+    margin-left: 5%;
+   
+    margin-top: 3%;
+}
+.container h3{
+    color: rgb(231, 198, 6); 
+}
+.container2 h5{
+    margin-left: 5%;
+    margin-top: 3%;
+    color: rgb(231, 198, 6);
+}
+.container3 p{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.container img{
+    margin-left: 10%;
+}

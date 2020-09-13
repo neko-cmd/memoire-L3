@@ -1,0 +1,39 @@
+.heading-site{
+  text-align: center;
+  font-family:'Montserrat:400,700', sans-serif ;
+  font-size: 25px;
+}
+.header{
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  height: 70px;
+  line-height: 70px;
+  background-color: rgba(0, 0, 0, 0);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  font-family:'Montserrat:400,700', sans-serif ;
+}
+.header .header-logo {
+
+  color: white;
+  font-family: 'Montserrat:400,700', sans-serif;
+  float: left;
+  margin-left: 30px;  
+  text-decoration: none;
+}
+.header .header-menu{
+  float: right;
+  margin-right: 80px;
+ 
+}
+.header .header-menu a{
+  margin-right: 15px;
+  color: white;
+  text-decoration: none;
+}
+.header .header-menu a:hover{
+  color:#6dd5ed;
+  text-decoration: none;
+}
